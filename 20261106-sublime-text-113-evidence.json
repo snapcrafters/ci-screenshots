@@ -1,0 +1,137 @@
+{
+  "stable-wayland": {
+    "saved_text": "tieengs Vieetj ",
+    "snap_list": "Name          Version  Rev  Tracking       Publisher      Notes\nsublime-text  4215     251  latest/stable  snapcrafters*  classic\n",
+    "mappings": [
+      "/snap/core24/2124/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0",
+      "/snap/sublime-text/251/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32"
+    ],
+    "module_cache_opens": [
+      "openat(AT_FDCWD, \"/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache\", O_RDONLY) = 21",
+      "openat(AT_FDCWD, \"/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 21",
+      "openat(AT_FDCWD, \"/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache\", O_RDONLY) = 126",
+      "openat(AT_FDCWD, \"/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 126"
+    ],
+    "warnings": [
+      "write(2, \"tialization check failed: GLib version too old (micro mismatch)\\n\", 64) = 64",
+      "write(2, \"\\n(sublime_text:7866): Gtk-WARNING **: 11:11:40.682: Loading IM context type 'fcitx' failed\\n\", 91) = 91",
+      "write(2, \"tialization check failed: GLib version too old (micro mismatch)\\n\", 64) = 64",
+      "write(2, \"\\n(sublime_text:7611): Gtk-WARNING **: 11:09:48.828: Loading IM context type 'fcitx' failed\\n\", 91) = 91"
+    ]
+  },
+  "stable-x11": {
+    "saved_text": "tieengs Vieetj ",
+    "snap_list": "Name          Version  Rev  Tracking       Publisher      Notes\nsublime-text  4215     251  latest/stable  snapcrafters*  classic\n",
+    "mappings": [
+      "/snap/core24/2124/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0",
+      "/snap/sublime-text/251/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32"
+    ],
+    "module_cache_opens": [
+      "openat(AT_FDCWD, \"/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache\", O_RDONLY) = 19",
+      "openat(AT_FDCWD, \"/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 19"
+    ],
+    "warnings": [
+      "write(2, \"tialization check failed: GLib version too old (micro mismatch)\\n\", 64) = 64",
+      "write(2, \"\\n(sublime_text:7963): Gtk-WARNING **: 11:12:22.122: Loading IM context type 'fcitx' failed\\n\", 91) = 91"
+    ]
+  },
+  "pr113-wayland": {
+    "saved_text": "tiếng Việt ",
+    "snap_list": "Name          Version  Rev  Tracking       Publisher  Notes\nsublime-text  4215     x1   latest/stable  -          classic\n",
+    "mappings": [
+      "/snap/core24/2124/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/libFcitx5GClient.so.5.1.1",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32"
+    ],
+    "module_cache_opens": [
+      "openat(AT_FDCWD, \"/home/ubuntu/snap/sublime-text/x1/gtk-immodules.cache\", O_RDONLY) = 19",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 19",
+      "openat(AT_FDCWD, \"/home/ubuntu/snap/sublime-text/x1/gtk-immodules.cache\", O_RDONLY) = 125",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 125",
+      "openat(AT_FDCWD, \"/home/ubuntu/snap/sublime-text/x1/gtk-immodules.cache\", O_RDONLY|O_PATH|O_DIRECTORY) = -1 ENOTDIR (Not a directory)",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so\", O_RDONLY|O_CLOEXEC) = 3"
+    ],
+    "warnings": []
+  },
+  "pr113-x11": {
+    "saved_text": "tiếng Việt ",
+    "snap_list": "Name          Version  Rev  Tracking       Publisher  Notes\nsublime-text  4215     x1   latest/stable  -          classic\n",
+    "mappings": [
+      "/snap/core24/2124/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/libFcitx5GClient.so.5.1.1",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32"
+    ],
+    "module_cache_opens": [
+      "openat(AT_FDCWD, \"/home/ubuntu/snap/sublime-text/x1/gtk-immodules.cache\", O_RDONLY|O_PATH|O_DIRECTORY) = -1 ENOTDIR (Not a directory)",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/home/ubuntu/snap/sublime-text/x1/gtk-immodules.cache\", O_RDONLY) = 17",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 17"
+    ],
+    "warnings": []
+  },
+  "pr113-default": {
+    "saved_text": "plain input",
+    "snap_list": "Name          Version  Rev  Tracking       Publisher  Notes\nsublime-text  4215     x1   latest/stable  -          classic\n",
+    "mappings": [
+      "/snap/core24/2124/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32"
+    ],
+    "module_cache_opens": [
+      "openat(AT_FDCWD, \"/home/ubuntu/snap/sublime-text/x1/gtk-immodules.cache\", O_RDONLY) = 19",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so\", O_RDONLY|O_CLOEXEC) = 19",
+      "openat(AT_FDCWD, \"/home/ubuntu/snap/sublime-text/x1/gtk-immodules.cache\", O_RDONLY|O_PATH|O_DIRECTORY) = -1 ENOTDIR (Not a directory)",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so\", O_RDONLY|O_CLOEXEC) = 3"
+    ],
+    "warnings": []
+  },
+  "pr113-ibus": {
+    "saved_text": "plain input",
+    "snap_list": "Name          Version  Rev  Tracking       Publisher  Notes\nsublime-text  4215     x1   latest/stable  -          classic\n",
+    "mappings": [
+      "/snap/core24/2124/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32",
+      "/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/libibus-1.0.so.5.0.529"
+    ],
+    "module_cache_opens": [
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-wayland.so\", O_RDONLY|O_CLOEXEC) = 3",
+      "openat(AT_FDCWD, \"/home/ubuntu/snap/sublime-text/x1/gtk-immodules.cache\", O_RDONLY) = 19",
+      "openat(AT_FDCWD, \"/snap/sublime-text/x1/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so\", O_RDONLY|O_CLOEXEC) = 19",
+      "openat(AT_FDCWD, \"/home/ubuntu/snap/sublime-text/x1/gtk-immodules.cache\", O_RDONLY|O_PATH|O_DIRECTORY) = -1 ENOTDIR (Not a directory)"
+    ],
+    "warnings": []
+  },
+  "stable-revert": {
+    "saved_text": "tieengs Vieetj ",
+    "snap_list": "Name          Version  Rev  Tracking       Publisher      Notes\nsublime-text  4215     251  latest/stable  snapcrafters*  classic\n",
+    "mappings": [
+      "/snap/core24/2124/usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0",
+      "/snap/sublime-text/251/usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32"
+    ],
+    "module_cache_opens": [
+      "openat(AT_FDCWD, \"/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache\", O_RDONLY) = 125",
+      "openat(AT_FDCWD, \"/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-fcitx5.so\", O_RDONLY|O_CLOEXEC) = 125"
+    ],
+    "warnings": [
+      "write(2, \"tialization check failed: GLib version too old (micro mismatch)\\n\", 64) = 64",
+      "write(2, \"\\n(sublime_text:9122): Gtk-WARNING **: 11:15:02.329: Loading IM context type 'fcitx' failed\\n\", 91) = 91"
+    ]
+  },
+  "environment": {
+    "os": "PRETTY_NAME=\"Ubuntu 26.04.1 LTS\"\nNAME=\"Ubuntu\"\nVERSION_ID=\"26.04\"\nVERSION=\"26.04.1 LTS (Resolute Raccoon)\"\nVERSION_CODENAME=resolute\nID=ubuntu\nID_LIKE=debian\nHOME_URL=\"https://www.ubuntu.com/\"\nSUPPORT_URL=\"https://help.ubuntu.com/\"\nBUG_REPORT_URL=\"https://bugs.launchpad.net/ubuntu/\"\nPRIVACY_POLICY_URL=\"https://www.ubuntu.com/legal/terms-and-policies/privacy-policy\"\nUBUNTU_CODENAME=resolute\nLOGO=ubuntu-logo\n",
+    "packages": "fcitx5\t5.1.19-1\nfcitx5-frontend-gtk3\t5.1.6-1\nfcitx5-unikey:amd64\t5.1.10-1\ngnome-shell\t50.1-0ubuntu1.5\nlibglib2.0-0t64:amd64\t2.88.0-1ubuntu0.1\n"
+  }
+}
